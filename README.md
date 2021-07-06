@@ -1,6 +1,6 @@
 # POTPROC
 
-A set of tools for processing potential (gravimetric and magnetic) data written in Python . Array processing is powered by NumPy.
+A set of tools for processing potential (gravimetric and magnetic) data written in Python. Array processing is powered by NumPy.
 
 
 ## Todo
